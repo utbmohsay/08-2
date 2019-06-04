@@ -1,0 +1,27 @@
+body {
+  background-color: gray;
+}
+
+header {
+  background-color: black;
+}
+
+section {
+  background-color: white;
+}
+
+aside {
+  background-color: green;
+}
+
+footer {
+  background-color: yellow;
+  text-align: center;
+}
+
+p, h1, h2 {
+  color:red;
+  padding: 1%;
+  margin-left: 1%;
+  margin-right: 1%;
+}
